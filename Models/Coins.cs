@@ -14,9 +14,6 @@ namespace CoinJarApi.Models
         public decimal Amount { get; set; } = 0;
         public decimal Volume { get; set; } = 0;
 
-        //public decimal Amount { get; set; } = 0;
-        //public decimal Volume { get; set; } = 0;
-
     }
 
 

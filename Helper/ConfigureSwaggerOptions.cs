@@ -18,9 +18,6 @@ namespace CoinJarApi.Helper
         readonly IApiVersionDescriptionProvider provider;
 
         public ConfigureSwaggerOptions(IApiVersionDescriptionProvider provider) => this.provider = provider;
-        //{
-
-        //}
 
         public void Configure(SwaggerGenOptions options)
         {

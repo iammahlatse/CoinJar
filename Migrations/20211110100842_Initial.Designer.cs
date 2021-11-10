@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CoinJarApi.Migrations
 {
     [DbContext(typeof(CoinJarDBContext))]
-    [Migration("20211109201748_Initial")]
+    [Migration("20211110100842_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
