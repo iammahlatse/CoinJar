@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoinJarApi</name>
+    </assembly>
+    <members>
+        <member name="M:CoinJarApi.Controllers.CoinJarController.Reset">
+            <summary>
+            Reset the Jar
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
